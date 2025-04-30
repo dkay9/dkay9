@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Working as an intern at a tech hub.
 - 🌱 &nbsp; Learning more about ReactJS, and Systems Design.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies.
+- ✍️ &nbsp; Hobbies? A few are basketball, boxing, running, football, and reading.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
