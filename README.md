@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Working as an intern at a tech hub.
-- 🌱 &nbsp; Learning more about ReactJS, and Systems Design.
+- 🌱 &nbsp; Learning more about PHP, Laravel, ReactJS, Web Components, and Systems Design.
 - ✍️ &nbsp; Hobbies? A few are basketball, boxing, running, football, and reading.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -29,12 +29,6 @@
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
-<br/>
-
-<a href="https://github.com/dkay9">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dkay9&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkay9&theme=buefy&layout=compact" />
-</a>
 
 <br/>
 
