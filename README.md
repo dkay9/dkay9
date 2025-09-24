@@ -40,7 +40,10 @@
 <p>
 <a href="https://x.com/Dheekay11" alt="Twitter"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/twitter.png" height="30" width="30"></a>
   <a href="https://www.linkedin.com/in/kalu-david/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
-  <a href="https://bsky.app/profile/dheekay.bsky.social" alt="Bluesky"><img src="https://i.ibb.co/bR6yrQCF/bluesky-removebg-preview.png" alt="bluesky-removebg-preview" height="30" width="30" border="0"></a>
+ <a href="https://bsky.app/profile/dheekay.bsky.social">
+  <img src="https://i.ibb.co/bR6yrQCF/bluesky-removebg-preview.png" alt="Bluesky" width="30" height="30">
+</a>
+
 
      
 </p>   
